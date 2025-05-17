@@ -4,3 +4,24 @@
     color: var(--gray-600);
 }
 
+.text-subtitle {
+    color: var(--red-);
+    font: var(--subtitle);
+}
+
+.title-middle {
+  font: var(-title-md);
+ color: var(--gray-600);
+}
+
+.text-small {
+color: var(--gray-500);
+font: var(--text-sm);
+}
+
+.title-small {
+font: var(--title-sm);
+color: var(--gray-600);
+
+}
+

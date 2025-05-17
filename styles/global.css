@@ -36,7 +36,20 @@
     --text-md: 400 16px/140% var(--font-family-maven_pro);
     --text-sm: 400 14px/140% var(--font-family-maven_pro);
             
-            
+}
+
+main {
+
+margin-inline: 120px;
+
 
 }
+
+body {
+    
+background-image: url(../assets/Background_Intro.png);
+background-size: cover;
+
+}
+
 

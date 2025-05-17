@@ -1,7 +1,6 @@
 #intro {
 height: 750px;
-background-image: url(../assets/Background_Intro.png);
-background-size: cover;
+
 
 .info {
   display: flex;
@@ -69,8 +68,6 @@ background-color: var(--gray-300);
   justify-content: center;
   gap: 8px;
 
- 
-
   }
 
 }
@@ -80,6 +77,5 @@ width: 138px;
 
 }
 
-  
 }
 
