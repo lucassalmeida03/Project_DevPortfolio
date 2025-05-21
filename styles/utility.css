@@ -10,7 +10,7 @@
 }
 
 .title-middle {
-  font: var(-title-md);
+  font: var(--title-md);
  color: var(--gray-600);
 }
 
@@ -23,5 +23,10 @@ font: var(--text-sm);
 font: var(--title-sm);
 color: var(--gray-600);
 
+}
+
+.text-middle {
+    font: var(--text-md);
+    color: var(--gray-500);
 }
 

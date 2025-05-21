@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 :root {
@@ -27,8 +28,8 @@
      
      /* Vars Para Titulos */
     --title-lg: bold 56px/120% var(--font-family-asap);
-    -title-md: bold 24px/120% var(--font-family-asap);
-    -title-sm: bold 16px/120% var(--font-family-asap);
+    --title-md: bold 24px/120% var(--font-family-asap);
+    --title-sm: bold 16px/120% var(--font-family-asap);
 
     --subtitle: 400 20px/120% var(--font-family-inconsolata);
     
@@ -38,17 +39,12 @@
             
 }
 
-main {
 
-margin-inline: 120px;
-
-
-}
-
-body {
+#backimage {
     
 background-image: url(../assets/Background_Intro.png);
-background-size: cover;
+background-size: 100% ;
+
 
 }
 
