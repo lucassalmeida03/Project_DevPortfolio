@@ -4,4 +4,4 @@ Projeto realizado com HTML e CSS puro. Feito a fim de praticar a estruturação 
 
 ## Como ver o projeto 
 
-Você pode ter acesso ao projeto online [ clicando aqui ] (https://lucassalmeida03.github.io/Project_DevPortfolio/)
+Você pode ter acesso ao projeto online no link ao lado -> (https://lucassalmeida03.github.io/Project_DevPortfolio/)
