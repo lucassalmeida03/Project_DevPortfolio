@@ -1,4 +1,4 @@
-# Porfólio Desenvolvedor - HTML & CSS
+# Portfólio Desenvolvedor - HTML & CSS
 
 Projeto realizado com HTML e CSS puro. Feito a fim de praticar a estruturação semântica e uso do **CSS Nesting** para estilização.
 
